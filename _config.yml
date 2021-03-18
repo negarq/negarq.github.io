@@ -106,7 +106,7 @@ work:
 publication:
   - name: "Forecasting Architectural Decay from Evolutionary History"
     authors: "Joshua Garcia, Ehsan Kouroshfar, <u>Negar Ghorbani</u>, Sam Malek"
-    journal: "IEEE Transactions on Software Engineering, 2021"
+    conference: "IEEE Transactions on Software Engineering, 2021"
     pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9357984"
   - name: "Detection and repair of architectural inconsistencies in Java"
     authors: "<u>Negar Ghorbani</u>, Joshua Garcia, Sam Malek"
@@ -126,7 +126,7 @@ publication:
     html_url: "https://www.ics.uci.edu/~seal/projects/letterbomb/index.html"
   - name: "Modeling and Evaluation of Service Composition in Commercial Multi-Clouds using Timed Colored Petri Nets"
     authors: "Reza Entezari-Maleki, Sayed Ehsan Etesami, <u>Negar Ghorbani</u>, Arian Akhavan Niaki, Leonel Sousa, Ali Movaghar"
-    journal: "IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2017"
+    conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2017"
     pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8116749"
 
 
