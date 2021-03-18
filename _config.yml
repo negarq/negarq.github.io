@@ -31,9 +31,9 @@ social_media:
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
+  scholar: E3yGWDsAAAAJ
   linkedin: negar-ghorbani-13625251
   github: negarq
-  scholar: E3yGWDsAAAAJ
   # mastodon: your_username
   # medium: noidsirius
   # stackoverflow: 2681272/noidsirius
@@ -107,6 +107,7 @@ publication:
   - name: "Forecasting Architectural Decay from Evolutionary History"
     authors: "Joshua Garcia, Ehsan Kouroshfar, <u>Negar Ghorbani</u>, Sam Malek"
     journal: "IEEE Transactions on Software Engineering, 2021"
+    pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9357984"
   - name: "Detection and repair of architectural inconsistencies in Java"
     authors: "<u>Negar Ghorbani</u>, Joshua Garcia, Sam Malek"
     conference: "<strong>ICSE 2019</strong>, IEEE/ACM 41st International Conference on Software Engineering, Montreal, QC, Canada, May 2019, 21% acceptance rate"
