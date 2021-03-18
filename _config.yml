@@ -53,6 +53,14 @@ work:
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
       <li> Conducting research in the areas of Software Engineering, Program Analysis, Software Testing, and Mobile Apps Security Under supervision of Dr. Sam Malek and Dr. Joshua Garcia </li>
     </ul>"
+  - company: "Microsoft Research, Data & AI Applied Science"
+    company_url: "https://www.microsoft.com/en-us/research/"
+    role: "Applied Scientist"
+    start: "March 2021"
+    end: "Present"
+    description: "<ul class='text-gray mb-2 ws-normal pl-3'>
+      <li> Conducting research in the areas of Machine Learning for Automated Software Engineering </li>
+    </ul>"
   - company: "Fujitsu Laboratories of America, Sunnyvale, CA"
     company_url: "https://www.fujitsu.com/us/about/businesspolicy/tech/rd/"
     role: "Software Engineering Research Intern"
@@ -154,7 +162,7 @@ topics:
 
   - name: Software Analysis and Testing
 
-  - name: Machine Learning
+  - name: Machine Learning for Automated Software Engineering
 
   # - name: CSS
   #   web_url: https://github.com/topics/css
