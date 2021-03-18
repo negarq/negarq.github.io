@@ -16,10 +16,11 @@ defaults:
     values:
       layout: "post"
 
-bio: "Besides that, I enjoy reading, listening to classical and post-rock music, and I love playing Violin."
+bio: "I enjoy reading, listening to classical/post-rock music and podcasts. I also love playing Violin.
+"
 
-about: "I'm Negar, a fifth year Ph.D. candidate at <a href=\"https://uci.edu/\">the University of Calirofnia, Irvine</a>. As a member of <a href=\"https://www.ics.uci.edu/~seal/index.html\">SEAL</a> Lab, I'm working under supervision of <a href=\"https://www.ics.uci.edu/~malek/\">Dr. Sam Malek</a> and <a href=\"https://jgarcia.ics.uci.edu\">Dr. Joshua Garcia</a>. 
-My research interests are in software engineering with a focus on software analysis and testing, software security, and software architecture decay."
+about: "I'm Negar, a fifth year Ph.D. candidate at <a href=\"https://uci.edu/\">the University of Calirofnia, Irvine</a>. As a member of <a href=\"https://www.ics.uci.edu/~seal/index.html\">SEAL</a> Lab, I'm working under supervision of <a href=\"https://www.ics.uci.edu/~malek/\">Dr. Sam Malek</a> and <a href=\"https://jgarcia.ics.uci.edu\">Dr. Joshua Garcia</a>. My research interests are in software engineering with a focus on software analysis and testing, software security, and software architecture decay.
+"
 
 email: negargh@uci.edu
 
@@ -35,7 +36,7 @@ social_media:
   scholar: E3yGWDsAAAAJ
   # mastodon: your_username
   # medium: noidsirius
-  # stackoverflow: 2681272/noidsirius
+  stackoverflow: 2681272/noidsirius
   # telegram: your_username
   twitter: negarq
   # unsplash: your_username
@@ -60,7 +61,7 @@ work:
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
       <li> Mining and fixing software bugs using crowd intelligence and unsupervised machine learning </li>
     </ul>"
-- company: "Morgan Stanley, New York, NY"
+  - company: "Morgan Stanley, New York, NY"
     company_url: "https://www.morganstanley.com"
     role: "Software Engineering Intern"
     start: "June 2019"
@@ -68,7 +69,7 @@ work:
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
       <li> Designing and developing dynamic and static optimization methods in a framework for distributed and parallelized graph based calculations in Scala. </li>
     </ul>"
-- company: "Institute for Studies in Theoretical Physics and Mathematics (IPM), Tehran, Iran"
+  - company: "Institute for Studies in Theoretical Physics and Mathematics (IPM), Tehran, Iran"
     company_url: ""
     role: "Research Assistant"
     start: "June 2015"
@@ -76,7 +77,7 @@ work:
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
       <li> Modeling and Evaluation of Service Composition in Commercial Multi-Clouds using Timed Colored Petri Nets. </li>
     </ul>"
-- company: "Pishtazan Andishe Pouya, Tehran, Iran"
+  - company: "Pishtazan Andishe Pouya, Tehran, Iran"
     company_url: ""
     role: "Software Engineering Intern"
     start: "January 2016"
@@ -84,7 +85,7 @@ work:
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
       <li> Design and analysis of models for software information systems and web applications. </li>
     </ul>"
-- company: "VADA Future Communications,Tehran, Iran"
+  - company: "VADA Future Communications,Tehran, Iran"
     company_url: ""
     role: "Software Developer"
     start: "January 2014"
@@ -96,26 +97,26 @@ work:
 
 publication:
   - name: "Forecasting Architectural Decay from Evolutionary History"
-    authors: "Joshua Garcia, Ehsan Kouroshfar, <u>Negar Ghorbani<\u>, Sam Malek"
+    authors: "Joshua Garcia, Ehsan Kouroshfar, <u>Negar Ghorbani</u>, Sam Malek"
     journal: "IEEE Transactions on Software Engineering, 2021"
   - name: "Detection and repair of architectural inconsistencies in Java"
-    authors: "<u>Negar Ghorbani<\u>, Joshua Garcia, Sam Malek"
+    authors: "<u>Negar Ghorbani</u>, Joshua Garcia, Sam Malek"
     conference: "<strong>ICSE 2019</strong>, IEEE/ACM 41st International Conference on Software Engineering, Montreal, QC, Canada, May 2019, 21% acceptance rate"
     repo: "https://github.com/seal-hub/darcy-artifact"
     pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8812079"
     html_url: "https://www.ics.uci.edu/~seal/projects/darcy/index.html"
   - name: "A temporal permission analysis and enforcement framework for android"
-    authors: "Alireza Sadeghi, Reyhaneh Jabbarvand, <u>Negar Ghorbani<\u>, Hamid Bagheri, Sam Malek"
+    authors: "Alireza Sadeghi, Reyhaneh Jabbarvand, <u>Negar Ghorbani</u>, Hamid Bagheri, Sam Malek"
     conference: "<strong>ICSE 2018</strong>, IEEE/ACM 40th International Conference on Software Engineering, Gothenburg, Sweden, May 2018, 21% acceptance rate"
     pdf: "https://dl.acm.org/doi/pdf/10.1145/3180155.3180172"
     html_url: "https://www.ics.uci.edu/~seal/projects/terminator/index.html"
   - name: "Automatic generation of inter-component communication exploits for Android applications"
-    authors: "Joshua Garcia, Mahmoud Hammad, <u>Negar Ghorbani<\u>, Sam Malek"
+    authors: "Joshua Garcia, Mahmoud Hammad, <u>Negar Ghorbani</u>, Sam Malek"
     conference: "<strong>FSE 2017</strong>, ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE), Paderborn, Germany, September 2017, 21% acceptance rate"
     pdf: "https://dl.acm.org/doi/pdf/10.1145/3106237.3106286"
     html_url: "https://www.ics.uci.edu/~seal/projects/letterbomb/index.html"
-- name: "Modeling and Evaluation of Service Composition in Commercial Multi-Clouds using Timed Colored Petri Nets"
-    authors: "Reza Entezari-Maleki, Sayed Ehsan Etesami, <u>Negar Ghorbani<\u>, Arian Akhavan Niaki, Leonel Sousa, Ali Movaghar"
+  - name: "Modeling and Evaluation of Service Composition in Commercial Multi-Clouds using Timed Colored Petri Nets"
+    authors: "Reza Entezari-Maleki, Sayed Ehsan Etesami, <u>Negar Ghorbani</u>, Arian Akhavan Niaki, Leonel Sousa, Ali Movaghar"
     journal: "IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2017"
     pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8116749"
 
@@ -146,22 +147,22 @@ projects:
 
 
 
-# topics:
-#   - name: Java
+topics:
+  - name: Java
 
-#   - name: Program Analysis
+  - name: Program Analysis
 
-#   - name: Machine Learning
+  - name: Software Analysis and Testing
 
-#   - name: Agile (Scrum)
+  - name: Machine Learning
 
-#   - name: CSS
-#     web_url: https://github.com/topics/css
-#     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
-#     description: I learned something I learned something I learned something I learned something
+  # - name: CSS
+  #   web_url: https://github.com/topics/css
+  #   image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  #   description: I learned something I learned something I learned something I learned something
 
-#   - name: Web design
+  # - name: Web design
 
-#   - name: Sass
-#     web_url: https://github.com/topics/sass
-#     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  # - name: Sass
+  #   web_url: https://github.com/topics/sass
+  #   image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
