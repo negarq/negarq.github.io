@@ -1,4 +1,4 @@
-layout: sidebar
+layout: stacked
 style: light
 
 plugins:
@@ -36,7 +36,7 @@ social_media:
   scholar: E3yGWDsAAAAJ
   # mastodon: your_username
   # medium: noidsirius
-  stackoverflow: 2681272/noidsirius
+  # stackoverflow: 2681272/noidsirius
   # telegram: your_username
   twitter: negarq
   # unsplash: your_username
