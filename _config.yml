@@ -16,8 +16,7 @@ defaults:
     values:
       layout: "post"
 
-bio: "Besides that, I enjoy reading comics, solving puzzles, automating things, and I love playing music (currently I'm learning <a href='https://en.wikipedia.org/wiki/Setar'>Setar</a>).
-"
+bio: "Besides that, I enjoy reading, listening to classical and post-rock music, and I love playing Violin."
 
 about: "I'm Negar, a fifth year Ph.D. candidate at <a href=\"https://uci.edu/\">the University of Calirofnia, Irvine</a>. As a member of <a href=\"https://www.ics.uci.edu/~seal/index.html\">SEAL</a> Lab, I'm working under supervision of <a href=\"https://www.ics.uci.edu/~malek/\">Dr. Sam Malek</a> and <a href=\"https://jgarcia.ics.uci.edu\">Dr. Joshua Garcia</a>. 
 My research interests are in software engineering with a focus on software analysis and testing, software security, and software architecture decay."
