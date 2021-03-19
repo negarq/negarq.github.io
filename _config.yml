@@ -105,9 +105,12 @@ work:
 
 publication:
   - name: "Forecasting Architectural Decay from Evolutionary History"
-    authors: "Joshua Garcia, Ehsan Kouroshfar, <u>Negar Ghorbani</u>, Sam Malek"
+    authors: "Hamid Bagheri, Jianghao Wang, Jarod Aerts, <u>Negar Ghorbani</u>, and Sam Malek,"
     conference: "IEEE Transactions on Software Engineering, 2021"
     pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9357984"
+  - name: "Flair: Efficient Analysis of Android Inter-Component Vulnerabilities in Response to Incremental Changes"
+    authors: "Joshua Garcia, Ehsan Kouroshfar, <u>Negar Ghorbani</u>, Sam Malek"
+    conference: "Empirical Software Engineering (EMSE), 2020"
   - name: "Detection and repair of architectural inconsistencies in Java"
     authors: "<u>Negar Ghorbani</u>, Joshua Garcia, Sam Malek"
     conference: "<strong>ICSE 2019</strong>, IEEE/ACM 41st International Conference on Software Engineering, Montreal, QC, Canada, May 2019, 21% acceptance rate"
