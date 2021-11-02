@@ -53,7 +53,7 @@ work:
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
       <li> Conducting research in the areas of Software Engineering, Program Analysis, Software Testing, and Mobile Apps Security Under supervision of Dr. Sam Malek and Dr. Joshua Garcia </li>
     </ul>"
-  - company: "Microsoft Research, Data & AI research team of Microsoft Developer Division (DevDiv)"
+  - company: "Microsoft Research, Developer Division (DevDiv) Data & AI"
     company_url: "https://www.microsoft.com/en-us/research/group/devdiv-dataai/"
     role: "Applied Scientist Intern"
     start: "March 2021"
