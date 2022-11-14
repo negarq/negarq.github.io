@@ -20,7 +20,7 @@ bio: "I enjoy reading, growing various plants, listening to classical/post-rock 
 "
 
 about: "I have completed my PhD degree in Software Engineering at UC Irvine, under the supervision of <a href=\"https://www.ics.uci.edu/~malek/\">Dr. Sam Malek</a> and <a href=\"https://jgarcia.ics.uci.edu\">Dr. Joshua Garcia</a>. During my PhD studies, I researched software engineering with a focus on software analysis and testing as well as machine learning for automated software engineering. 
-I found my true passion in utilizing machine learning and NLP techniques to improve developer productivity and automate software engineering tasks. I joined Meta as a Research Scientist working in the <a href=\"https://research.facebook.com/teams/probability/\">Probability team applying machine learning across the stack to improve efficiency for engineers, data scientists, and systems."
+I found my true passion in utilizing machine learning and NLP techniques to improve developer productivity and automate software engineering tasks. I joined Meta as a Research Scientist working in the <a href=\"https://research.facebook.com/teams/probability/\">Probability</a> team applying machine learning across the stack to improve efficiency for engineers, data scientists, and systems."
 
 email: negar.qorbani@gmail.com
 
@@ -45,7 +45,7 @@ social_media:
   # youtube: your_username
 
 work:
-  - company: "Meta"
+  - company: "Meta, Inc."
     company_url: "https://research.facebook.com/teams/probability/"
     role: "Research Scientist"
     start: "September 2022"
