@@ -19,10 +19,10 @@ defaults:
 bio: "I enjoy reading, growing various plants, listening to classical/post-rock music and podcasts. I also love playing Violin.
 "
 
-about: "I'm Negar, a final-year Ph.D. candidate at <a href=\"https://uci.edu/\">the University of Calirofnia, Irvine</a>. As a member of <a href=\"https://www.ics.uci.edu/~seal/index.html\">SEAL</a> Lab, I'm working under supervision of <a href=\"https://www.ics.uci.edu/~malek/\">Dr. Sam Malek</a> and <a href=\"https://jgarcia.ics.uci.edu\">Dr. Joshua Garcia</a>. My research interests are in software engineering with a focus on software analysis and testing, machine learning for automated software engineering, and software security.
-"
+about: "I have completed my PhD degree in Software Engineering at UC Irvine, under the supervision of <a href=\"https://www.ics.uci.edu/~malek/\">Dr. Sam Malek</a> and <a href=\"https://jgarcia.ics.uci.edu\">Dr. Joshua Garcia</a>. During my PhD studies, I researched software engineering with a focus on software analysis and testing as well as machine learning for automated software engineering. 
+I found my true passion in utilizing machine learning and NLP techniques to improve developer productivity and automate software engineering tasks. I joined Meta as a Research Scientist working in the <a href=\"https://research.facebook.com/teams/probability/\">Probability team applying machine learning across the stack to improve efficiency for engineers, data scientists, and systems."
 
-email: negargh@uci.edu
+email: negar.qorbani@gmail.com
 
 social_media:
   # behance: your_username
@@ -38,18 +38,26 @@ social_media:
   # medium: noidsirius
   # stackoverflow: 2681272/noidsirius
   # telegram: your_username
-  twitter: negarq
+  twitter: negar_ghorbani
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
 
 work:
+  - company: "Meta"
+    company_url: "https://research.facebook.com/teams/probability/"
+    role: "Research Scientist"
+    start: "September 2022"
+    end: "Present"
+    description: "<ul class='text-gray mb-2 ws-normal pl-3'>
+      <li> Conducting research in the application of machine learning and natural language processing techniaues to improve the performance of compilers as part of the Probability team</li>
+    </ul>"
   - company: "University of California, Irvine"
     company_url: "http://seal.ics.uci.edu/"
     role: "Graduate Research Assistant"
     start: "September 2016"
-    end: "Present"
+    end: "August 2022"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
       <li> Conducting research in the areas of Software Engineering, Program Analysis, Software Testing, and Mobile Apps Security Under supervision of Dr. Sam Malek and Dr. Joshua Garcia </li>
     </ul>"
@@ -104,8 +112,16 @@ work:
 
 
 publication:
+  - name: "Program Merge Conflict Resolution via Neural Transformers"
+    authors: "Alexey Svyatkovskiy, Sarah Fakhoury, <u>Negar Ghorbani</u>, Todd Mytkowicz, Elizabeth Dinella, Christian Bird, Jinu Jang, Neel Sundaresan, and Shuvendu K. Lahiri"
+    conference: "ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE), 2022"
+    pdf: "https://dl.acm.org/doi/10.1145/3540250.3549163"
+  - name: "DeltaDroid: Dynamic Delivery Testing in Android"
+    authors: "<u>Negar Ghorbani</u>, Reyhaneh Jabbarvand, Navid Salehnamadi, Joshua Garcia, and Sam Malek"
+    conference: "ACM Trans. on Software Engineering and Methodology (TOSEM), July 2022"
+    pdf: "https://dl.acm.org/doi/10.1145/3563213"
   - name: "Forecasting Architectural Decay from Evolutionary History"
-    authors: "Joshua Garcia, Ehsan Kouroshfar, <u>Negar Ghorbani</u>, Sam Malek"
+    authors: "Joshua Garcia, Ehsan Kouroshfar, <u>Negar Ghorbani</u>, and Sam Malek"
     conference: "IEEE Transactions on Software Engineering, 2021"
     pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9357984"
   - name: "Flair: Efficient Analysis of Android Inter-Component Vulnerabilities in Response to Incremental Changes"
@@ -148,6 +164,11 @@ publication:
   #   description: A Micro-Benchmark for Event Races in Android
   #   html_url: https://github.com/seal-hub/bencheroid
 
+
+projects:
+  - name: DeltaDroid
+    description: An approach that assists Android developers with validating dynamic delivery behavior in their apps by augmenting their existing test suite. 
+    html_url: https://sites.google.com/view/deltadroid/home
 
 projects:
   - name: Darcy
